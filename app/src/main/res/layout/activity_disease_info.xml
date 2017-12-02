@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    tools:context="com.example.thea.wecare.HerbalInfo">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <HorizontalScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scrollbarSize="3dp">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:paddingBottom="10dp"
+                android:paddingLeft="5dp"
+                android:paddingRight="5dp"
+                android:paddingTop="10dp">
+
+                <ImageView
+                    android:id="@+id/imgViewDiseaseInfo1"
+                    android:layout_width="300dp"
+                    android:layout_height="280dp"
+                    android:layout_weight="1"
+                    android:onClick="viewDiseasePic1"
+                    android:paddingLeft="5dp"
+                    android:paddingRight="5dp" />
+
+                <ImageView
+                    android:id="@+id/imgViewDiseaseInfo2"
+                    android:layout_width="300dp"
+                    android:layout_height="280dp"
+                    android:layout_weight="1"
+                    android:onClick="viewDiseasePic2"
+                    android:paddingLeft="5dp"
+                    android:paddingRight="5dp" />
+
+                <ImageView
+                    android:id="@+id/imgViewDiseaseInfo3"
+                    android:layout_width="300dp"
+                    android:layout_height="280dp"
+                    android:layout_weight="1"
+                    android:onClick="viewDiseasePic3"
+                    android:paddingLeft="5dp"
+                    android:paddingRight="5dp" />
+            </LinearLayout>
+        </HorizontalScrollView>
+
+        <TextView
+            android:id="@+id/txtDiseaseLearning"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingBottom="5dp"
+            android:paddingTop="5dp"
+            android:text="TextView"
+            android:textColor="#2762be"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+
+                <TextView
+                    android:id="@+id/txtDescriptionLearning"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="left|right"
+                    android:paddingBottom="5dp"
+                    android:paddingStart="5dp"
+                    android:paddingTop="5dp"
+                    android:text="TextView"
+                    android:textSize="16dp" />
+
+                <TextView
+                    android:id="@+id/txtCheckerLearning"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="TextView"
+                    android:textSize="15dp"
+                    android:visibility="gone" />
+            </LinearLayout>
+        </ScrollView>
+        <!--<Button-->
+            <!--android:id="@+id/btnSaveBookmarkLearning"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:onClick="btnSaveBookmarkLearning"-->
+            <!--android:text="Save to Bookmark" />-->
+    </LinearLayout>
+</LinearLayout>

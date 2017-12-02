@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.thea.wecare">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".Home"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Consult"
+            android:label="Consult" />
+        <activity android:name=".Body" />
+        <activity
+            android:name=".BodyProcedure"
+            android:label="Consult" />
+        <activity
+            android:name=".Learning"
+            android:label="Learning" />
+        <activity
+            android:name=".Herbal"
+            android:label="Herbal" />
+        <activity
+            android:name=".Monitoring"
+            android:label="Monitoring" />
+        <activity
+            android:name=".BookMark"
+            android:label="BookMark" />
+        <activity
+            android:name=".TermofUse"
+            android:label="Term of Use" />
+        <activity
+            android:name=".AboutUs"
+            android:label="About Us" />
+        <activity
+            android:name=".SignUp"
+            android:label="SignUp" />
+        <activity
+            android:name=".HerbalInfo"
+            android:label="BookMark" />
+        <activity
+            android:name=".BookmarkItem"
+            android:label="BookMark" />
+        <activity
+            android:name=".DiseaseInfo"
+            android:label="Learning" />
+        <activity android:name=".ViewUserDisease" />
+        <activity android:name=".Procedure"></activity>
+    </application>
+
+</manifest>

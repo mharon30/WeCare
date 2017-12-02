@@ -1,0 +1,7 @@
+#Fri Nov 24 22:25:53 CST 2017
+base.0=C\:\\Users\\Tottie\\Music\\wecareasu\\New folder\\WeCare\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_dd916494a3c700616256bb9ad1b8c1fed54e8f41
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Tottie\\Music\\wecareasu\\New folder\\WeCare\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d14c0a963c71714f80931e199f04e8e9c12d14fd\\classes.dex
+base.1=C\:\\Users\\Tottie\\Music\\wecareasu\\New folder\\WeCare\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d14c0a963c71714f80931e199f04e8e9c12d14fd
+file.0=C\:\\Users\\Tottie\\Music\\wecareasu\\New folder\\WeCare\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_dd916494a3c700616256bb9ad1b8c1fed54e8f41\\classes.dex

@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\Mharon Roxas\\AndroidStudioProjects\\WeCare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v11\\ic_stat_star.png",
+        "source": "C:\\Users\\Mharon Roxas\\AndroidStudioProjects\\WeCare\\app\\src\\main\\res\\drawable-hdpi-v11\\ic_stat_star.png"
+    },
+    {
         "merged": "C:\\Users\\Tottie\\Music\\wecareasu\\New folder\\WeCare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v11\\ic_stat_delete.png",
         "source": "C:\\Users\\Tottie\\Music\\wecareasu\\New folder\\WeCare\\app\\src\\main\\res\\drawable-hdpi-v11\\ic_stat_delete.png"
     },
@@ -16,8 +20,28 @@
         "source": "C:\\Users\\Tottie\\Music\\wecareasu\\New folder\\WeCare\\app\\src\\main\\res\\drawable-hdpi-v11\\ic_stat_save.png"
     },
     {
+        "merged": "C:\\Users\\Mharon Roxas\\AndroidStudioProjects\\WeCare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v11\\ic_stat_save.png",
+        "source": "C:\\Users\\Mharon Roxas\\AndroidStudioProjects\\WeCare\\app\\src\\main\\res\\drawable-hdpi-v11\\ic_stat_save.png"
+    },
+    {
+        "merged": "C:\\Users\\Mharon Roxas\\AndroidStudioProjects\\WeCare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v11\\ic_delete.png",
+        "source": "C:\\Users\\Mharon Roxas\\AndroidStudioProjects\\WeCare\\app\\src\\main\\res\\drawable-hdpi-v11\\ic_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\Mharon Roxas\\AndroidStudioProjects\\WeCare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v11\\ic_name.png",
+        "source": "C:\\Users\\Mharon Roxas\\AndroidStudioProjects\\WeCare\\app\\src\\main\\res\\drawable-hdpi-v11\\ic_name.png"
+    },
+    {
+        "merged": "C:\\Users\\Mharon Roxas\\AndroidStudioProjects\\WeCare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v11\\ic_stat_delete.png",
+        "source": "C:\\Users\\Mharon Roxas\\AndroidStudioProjects\\WeCare\\app\\src\\main\\res\\drawable-hdpi-v11\\ic_stat_delete.png"
+    },
+    {
         "merged": "C:\\Users\\Tottie\\Music\\wecareasu\\New folder\\WeCare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v11\\ic_stat_search.png",
         "source": "C:\\Users\\Tottie\\Music\\wecareasu\\New folder\\WeCare\\app\\src\\main\\res\\drawable-hdpi-v11\\ic_stat_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Mharon Roxas\\AndroidStudioProjects\\WeCare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v11\\ic_stat_name.png",
+        "source": "C:\\Users\\Mharon Roxas\\AndroidStudioProjects\\WeCare\\app\\src\\main\\res\\drawable-hdpi-v11\\ic_stat_name.png"
     },
     {
         "merged": "C:\\Users\\Tottie\\Music\\wecareasu\\New folder\\WeCare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v11\\ic_stat_star.png",
@@ -26,5 +50,9 @@
     {
         "merged": "C:\\Users\\Tottie\\Music\\wecareasu\\New folder\\WeCare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v11\\ic_delete.png",
         "source": "C:\\Users\\Tottie\\Music\\wecareasu\\New folder\\WeCare\\app\\src\\main\\res\\drawable-hdpi-v11\\ic_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\Mharon Roxas\\AndroidStudioProjects\\WeCare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v11\\ic_stat_search.png",
+        "source": "C:\\Users\\Mharon Roxas\\AndroidStudioProjects\\WeCare\\app\\src\\main\\res\\drawable-hdpi-v11\\ic_stat_search.png"
     }
 ]

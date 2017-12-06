@@ -24,16 +24,56 @@
         "source": "C:\\Users\\Tottie\\.android\\build-cache\\f3500fc9676e92056c09debf8d3b90064c07d9dd\\output\\res\\color-v23\\abc_tint_edittext.xml"
     },
     {
+        "merged": "C:\\Users\\Mharon Roxas\\AndroidStudioProjects\\WeCare\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "C:\\Users\\Mharon Roxas\\.android\\build-cache\\555633ca6fa8390841e311cc5ff00cf24d5f2978\\output\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mharon Roxas\\AndroidStudioProjects\\WeCare\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\Mharon Roxas\\.android\\build-cache\\67f948ca14cd76c6364ddc8118e440d03ef00ec7\\output\\res\\color-v23\\design_tint_password_toggle.xml"
+    },
+    {
         "merged": "C:\\Users\\Tottie\\Music\\wecareasu\\New folder\\WeCare\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
         "source": "C:\\Users\\Tottie\\.android\\build-cache\\f3500fc9676e92056c09debf8d3b90064c07d9dd\\output\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mharon Roxas\\AndroidStudioProjects\\WeCare\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\Mharon Roxas\\.android\\build-cache\\555633ca6fa8390841e311cc5ff00cf24d5f2978\\output\\res\\color-v23\\abc_tint_switch_thumb.xml"
     },
     {
         "merged": "C:\\Users\\Tottie\\Music\\wecareasu\\New folder\\WeCare\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
         "source": "C:\\Users\\Tottie\\.android\\build-cache\\f3500fc9676e92056c09debf8d3b90064c07d9dd\\output\\res\\color-v23\\abc_tint_default.xml"
     },
     {
+        "merged": "C:\\Users\\Mharon Roxas\\AndroidStudioProjects\\WeCare\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "C:\\Users\\Mharon Roxas\\.android\\build-cache\\555633ca6fa8390841e311cc5ff00cf24d5f2978\\output\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mharon Roxas\\AndroidStudioProjects\\WeCare\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\Mharon Roxas\\.android\\build-cache\\555633ca6fa8390841e311cc5ff00cf24d5f2978\\output\\res\\color-v23\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mharon Roxas\\AndroidStudioProjects\\WeCare\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\Mharon Roxas\\.android\\build-cache\\555633ca6fa8390841e311cc5ff00cf24d5f2978\\output\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mharon Roxas\\AndroidStudioProjects\\WeCare\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\Mharon Roxas\\.android\\build-cache\\555633ca6fa8390841e311cc5ff00cf24d5f2978\\output\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mharon Roxas\\AndroidStudioProjects\\WeCare\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\Mharon Roxas\\.android\\build-cache\\555633ca6fa8390841e311cc5ff00cf24d5f2978\\output\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mharon Roxas\\AndroidStudioProjects\\WeCare\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\Mharon Roxas\\.android\\build-cache\\555633ca6fa8390841e311cc5ff00cf24d5f2978\\output\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
         "merged": "C:\\Users\\Tottie\\Music\\wecareasu\\New folder\\WeCare\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
         "source": "C:\\Users\\Tottie\\.android\\build-cache\\f3500fc9676e92056c09debf8d3b90064c07d9dd\\output\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mharon Roxas\\AndroidStudioProjects\\WeCare\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\Mharon Roxas\\.android\\build-cache\\555633ca6fa8390841e311cc5ff00cf24d5f2978\\output\\res\\color-v23\\abc_tint_seek_thumb.xml"
     },
     {
         "merged": "C:\\Users\\Tottie\\Music\\wecareasu\\New folder\\WeCare\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
@@ -42,5 +82,9 @@
     {
         "merged": "C:\\Users\\Tottie\\Music\\wecareasu\\New folder\\WeCare\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",
         "source": "C:\\Users\\Tottie\\.android\\build-cache\\f3500fc9676e92056c09debf8d3b90064c07d9dd\\output\\res\\color-v23\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mharon Roxas\\AndroidStudioProjects\\WeCare\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\Mharon Roxas\\.android\\build-cache\\555633ca6fa8390841e311cc5ff00cf24d5f2978\\output\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
     }
 ]
